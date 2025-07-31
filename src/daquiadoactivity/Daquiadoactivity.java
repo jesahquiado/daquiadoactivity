@@ -1,4 +1,3 @@
-
 package daquiadoactivity;
 
   import java.util.Scanner;
@@ -10,7 +9,6 @@ public class Daquiadoactivity {
        
         Scanner scanner = new Scanner(System.in);
 
-   
         int science, history, math, soc, arts, totalMarks;
         double percentage;
 
